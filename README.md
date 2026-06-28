@@ -7,7 +7,8 @@
 
 [![Email](https://img.shields.io/badge/Gmail-bahmed.0192%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bahmed.0192@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal-ahmed-0192)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-EcoTrack-22C55E?style=flat&logo=vercel&logoColor=white)](https://ecotrack-ten-flax.vercel.app/)
+[![Royal Toys](https://img.shields.io/badge/Live-Royal%20Toys-F59E0B?style=flat&logo=vercel&logoColor=white)](https://royaltoys.live)
+[![EcoTrack](https://img.shields.io/badge/Live-EcoTrack-22C55E?style=flat&logo=vercel&logoColor=white)](https://ecotrack-ten-flax.vercel.app/)
 
 </div>
 
