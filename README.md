@@ -1,7 +1,6 @@
-
 <div align="center">
 
-  <img src="./assets/github-header.svg" width="100%" alt="Bilal Ahmed — Full-Stack Developer | AI and Automation" />
+  # Bilal Ahmed
 
   ### Full-Stack Developer · React.js · Python · AI & Automation
 
