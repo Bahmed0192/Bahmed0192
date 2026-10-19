@@ -1,143 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B12,50:111827,100:172554&height=180&section=header&text=BILAL%20AHMED&fontSize=43&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20APPLIED%20AI%20%7C%20MERN&descAlignY=67&descSize=15&descColor=A5B4FC&animation=fadeIn" width="100%" alt="Bilal Ahmed — Full-Stack Developer and Applied AI" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B12,50:111827,100:172554&height=180&section=header&text=BILAL%20AHMED&fontSize=43&fontColor=FFFFFF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20%26%20AUTOMATION&descAlignY=67&descSize=15&descColor=A5B4FC&animation=fadeIn" width="100%" alt="Bilal Ahmed — Full-Stack Developer | AI & Automation" />
 
-**I build full-stack products — from the interface to the infrastructure — and add practical AI where it genuinely helps.**
+### Full-Stack Developer | React.js · Python · AI & Automation
+
+I build modern web applications and explore practical AI solutions that solve real-world problems.
 
 <p>
-  <a href="mailto:bahmed.0192@gmail.com"><img src="https://img.shields.io/badge/Email-bahmed.0192%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bilal" /></a>
-  <!-- TODO: replace URLs below, then delete this comment -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:bahmed.0192@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bahmed.0192%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bilal" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-CS undergraduate at **COMSATS University Islamabad, Sahiwal** (graduating **June 2027**). I design and ship end-to-end web apps: responsive UIs, REST APIs, authentication, databases, and deployment.
+I'm a Computer Science undergraduate at **COMSATS University Islamabad, Sahiwal Campus**, with a strong interest in **Full-Stack Development, Artificial Intelligence, and Automation**.
 
-- 🧑‍💻 **Experience:** Web Development Intern at **TechStep** (Jul–Sep 2026) — responsive UI, debugging, testing, site maintenance. Also deliver freelance/client projects.
-- 🤖 **Focus:** AI-integrated web apps, reliable backends, and computer-vision prototypes.
-- 🎓 **Final Year Project — PakRaah:** a Pakistan-focused travel planner with route alternatives, road-risk insights, weather context, and AI-assisted recommendations.
-- 📬 **Open to:** freelance projects, internships, and collaborations.
+I enjoy building responsive interfaces, backend systems, and AI-powered applications that are practical, clean, and user-focused.
 
----
+I have professional experience as a **Web Development Intern at TechStep**, where I worked on responsive UI improvements, debugging, testing, and maintaining live web projects.
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧸 Royal Toys
-**E-commerce platform · Deployed**
-
-Full shopping flow for a Pakistani toy retailer — browsing to order management.
-
-- Guest checkout & cash-on-delivery
-- Inventory + admin dashboard
-- Role-based access, revenue tracking
-- Cloudinary media management
-
-`React` `Node.js` `Express` `MongoDB` `Cloudinary`
-
-[**Live Site ↗**](https://YOUR-ROYAL-TOYS-LINK)
-
-</td>
-<td width="33%" valign="top">
-
-### 🌍 EcoTrack
-**AI-powered sustainability platform**
-
-Makes sustainable habits measurable, interactive, and rewarding.
-
-- Carbon-footprint calculator
-- Eco-actions, challenges, leaderboards
-- Downloadable reports
-- AI guidance + live air quality (Open-Meteo)
-
-`React` `TypeScript` `Node.js` `MongoDB` `OpenAI API`
-
-[**Live Demo ↗**](https://YOUR-ECOTRACK-DEMO) · [**Code ↗**](https://github.com/Bahmed0192/YOUR-ECOTRACK-REPO)
-
-</td>
-<td width="33%" valign="top">
-
-### 🎬 Cineplex
-**Movie, TV & anime discovery**
-
-Searchable catalog with community-driven features.
-
-- Reviews, ratings, and blog posts
-- User / editor / admin roles
-- Release tracking
-- TMDB API integration
-
-`React` `TypeScript` `Node.js` `MongoDB` `TMDB API`
-
-[**Live Demo ↗**](https://YOUR-CINEPLEX-DEMO)
-
-</td>
-</tr>
-</table>
-
-### More Projects
-
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **DueMate** | Cross-platform payment reminder app, built for SOFTEC 2026 | Flutter · Dart · Firebase | [Code ↗](https://github.com/Bahmed0192/YOUR-DUEMATE-REPO) |
-| **GameGear Shop** | Gaming accessories e-commerce app | MERN | [Code ↗](https://github.com/Bahmed0192/YOUR-GAMEGEAR-REPO) |
-| **Heart Disease Prediction** | Neural-network risk prediction with an interactive web UI | Python · PyTorch | [Code ↗](https://github.com/Bahmed0192/YOUR-HEART-REPO) |
+I'm currently focused on strengthening my skills in **React.js, JavaScript, Node.js, Python, REST APIs, and AI-integrated applications**.
 
 ---
 
-## 🧠 Applied AI & Computer Vision
-
-| Project | Pipeline |
-|---|---|
-| **Vehicle Plate Recognition & Access Control** | ESP32-CAM capture → Flask backend → YOLOv8 detection → EasyOCR plate reading |
-| **Face Recognition Door Lock** | Camera-based face recognition integrated with embedded hardware |
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-**Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&perline=6&theme=dark" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS" />
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind&perline=6&theme=dark" alt="Frontend Skills" />
 
-**Backend & Databases**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python&perline=6&theme=dark" alt="Node.js, Express, MongoDB, MySQL, Python" />
+**Backend & Databases**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,firebase&perline=6&theme=dark" alt="Backend Skills" />
 
-**Mobile & Tools**<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vercel&perline=6&theme=dark" alt="Flutter, Dart, Firebase, Git, GitHub, Vercel" />
+**Tools & Technologies**  
+<img src="https://skillicons.dev/icons?i=git,github,vercel,flutter,dart&perline=6&theme=dark" alt="Tools and Technologies" />
 
-<sub>REST APIs · OpenAI API · Gemini API · n8n · Cloudinary · YOLOv8 · PyTorch</sub>
+<sub>REST APIs · OpenAI API · Prompt Engineering · n8n · YOLOv8 · OpenCV · EasyOCR</sub>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Highlighted Work
+
+- **EcoTrack** — Sustainability-focused web application with AI-powered recommendations and climate data integration.
+- **DueMate** — AI-assisted payment follow-up solution developed for a university hackathon.
+- **Cineplex** — A movie and entertainment discovery platform with a modern full-stack architecture.
+- **GameGear Shop** — E-commerce application with product, order, and user management.
+- **Number Plate Recognition System** — Computer vision prototype using ESP32-CAM, YOLOv8, OpenCV, and EasyOCR.
+- **Face Recognition Door Lock** — AI-based recognition system integrated with embedded hardware.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bahmed0192&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8&icon_color=60A5FA" alt="Bilal's GitHub statistics" height="160" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahmed0192&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8" alt="Most used languages" height="160" />
 
 </div>
 
 ---
 
+## 📫 Contact
+
+- **Email:** bahmed.0192@gmail.com
+- **Open to:** internships, freelance projects, collaborations, and development opportunities
+
+---
+
 <div align="center">
 
-### Have a project in mind?
-Let's build something useful.
+### Thanks for visiting my profile!
 
-[**📧 Get in touch**](mailto:bahmed.0192@gmail.com)
+Let's connect and build something meaningful.
 
 </div>
